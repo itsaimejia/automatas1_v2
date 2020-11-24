@@ -1,0 +1,10 @@
+ABRIR=1
+CERRAR=2
+GUION=3
+ESPACIO=4
+DIGITO=5
+WS=6
+'('=1
+')'=2
+'-'=3
+' '=4

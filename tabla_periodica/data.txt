@@ -1,0 +1,7 @@
+litio
+hidrogeno
+helio
+neon
+hierro
+
+

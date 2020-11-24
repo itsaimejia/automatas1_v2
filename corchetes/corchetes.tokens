@@ -1,0 +1,8 @@
+OPEN=1
+CLOSE=2
+NUMBER=3
+COMA=4
+WS=5
+'['=1
+']'=2
+','=4

@@ -1,0 +1,11 @@
+SIG=1
+OPEN=2
+CLOSE=3
+EQU=4
+NUM=5
+VAR=6
+NLINE=7
+WS=8
+'('=2
+')'=3
+'='=4
