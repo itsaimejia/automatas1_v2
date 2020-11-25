@@ -1,7 +1,6 @@
-litio
-hidrogeno
-helio
-neon
-hierro
+Li
+Fe
+Au
+Xe
 
 

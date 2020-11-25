@@ -16,7 +16,7 @@ public class Evaluar {
         List<Elemento> l = lista.getLista();
 
         for (Elemento obj : l) {
-            if (obj.getNombre().toLowerCase().equals(this.element)) {
+            if (obj.getAbreviatura().toLowerCase().equals(this.element.toLowerCase())) {
                 if (obj.getClasificacion().equals("no metales") || obj.getClasificacion().equals("gases nobles")) {
                     System.out.println(obj.toString());
                 }
