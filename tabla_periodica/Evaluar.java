@@ -17,7 +17,7 @@ public class Evaluar {
 
         for (Elemento obj : l) {
             if (obj.getAbreviatura().toLowerCase().equals(this.element.toLowerCase())) {
-                if (obj.getClasificacion().equals("no metales") || obj.getClasificacion().equals("gases nobles")) {
+                if (obj.getClasificacion().equals("no metal") || obj.getClasificacion().equals("gases nobles")) {
                     System.out.println(obj.toString());
                 }
             }
